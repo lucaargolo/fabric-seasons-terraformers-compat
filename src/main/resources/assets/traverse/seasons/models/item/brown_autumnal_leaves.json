@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "traverse:block/summer_brown_autumnal_leaves"
+    },
+    "fall": {
+      "all": "traverse:block/fall_brown_autumnal_leaves"
+    },
+    "winter": {
+      "all": "traverse:block/winter_brown_autumnal_leaves"
+    }
+  }
+}

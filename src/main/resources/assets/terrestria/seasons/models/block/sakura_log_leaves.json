@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "leaves": "terrestria:block/summer_sakura_leaves",
+      "particle": "terrestria:block/summer_sakura_leaves"
+    },
+    "fall": {
+      "leaves": "terrestria:block/fall_sakura_leaves",
+      "particle": "terrestria:block/fall_sakura_leaves"
+    },
+    "winter": {
+      "leaves": "terrestria:block/winter_sakura_leaves",
+      "particle": "terrestria:block/winter_sakura_leaves"
+    }
+  }
+}
